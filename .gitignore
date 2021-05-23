@@ -1,0 +1,7 @@
+.idea/
+
+*.saz
+
+.vscode/
+
+*.log
